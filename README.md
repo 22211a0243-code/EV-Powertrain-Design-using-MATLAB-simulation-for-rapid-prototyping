@@ -1,0 +1,2 @@
+# EV-Powertrain-Design-using-MATLAB-simulation-for-rapid-prototyping
+Focuses on designing and simulating an Electric Vehicle (EV) powertrain using MATLAB for rapid prototyping. Models key components such as the motor, battery, controller drivetrain to evaluate system behavior under various driving conditions. Simulation enables quick testing, optimization EV powertrain configurations before physical implementation.
